@@ -31,6 +31,7 @@
 - [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
 - [Blockchain Demo](https://blockchaindemo.io/)  A visual demo of blockchain technology
 - [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
+- [链新社区块链学习资源页](https://www.lianxinshe666.com/special/blockchain/) 面向普通读者的区块链入门与学习资源合集
 
 ### Ethereum 以太坊进阶
 
